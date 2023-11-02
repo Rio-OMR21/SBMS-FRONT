@@ -1,0 +1,104 @@
+.div4search{
+    display: inline-flex;
+    width: 90%;
+    margin-bottom: 30px;
+}
+.search{
+    margin-left: 600px;
+    margin-top: 70px;
+    border-radius: 15px;
+    border-color: blue;
+    font-size: 25px;
+    align-items: center;
+    width: 450px;
+
+}
+.toggleForm{
+    margin-left: 100px;
+    margin-top: 70px;
+    border-radius: 15px;
+    border-style: hidden;
+    color: white;
+    background-color: green;
+    font-size: 30px;
+    padding-right: 50px;
+    width: 400px;
+
+}
+
+form{
+    border-radius: 20px;
+    background-color: aqua;
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-top: 10px;
+    align-items: center;
+    display: flexbox;
+    align-items: center;
+    padding-bottom: 10px;
+
+}
+h2{
+    font-size: 30px;
+    padding-left: 30px;
+    padding-top: 15px;
+    margin: 20px;
+    color: darkblue;
+}
+input{
+    border-radius: 15px;
+    border-color: blue;
+    width: 500px;
+    height: 35px;
+    margin: 5px;
+    margin-left: 28px;
+    margin-top: 10px;
+    
+
+}
+.Submit{
+    width: 400px;
+    height: 40px;
+    margin: 5px;
+    margin-top: 10px;
+    margin-left: 350px;
+    background-color: blue;
+    font-weight: bolder;
+    color: white;
+    font-size: 20px;
+    border-radius: 15px;
+    
+
+
+}
+
+table{
+    border-radius: 15px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+ td{
+    background-color: rgb(175, 221, 233);
+    border-bottom: 1px;
+    border-color: blue;
+ }
+thead{
+    font-size: 20px;
+    align-items: center;
+    background-color: rgb(97, 137, 178);
+
+}
+.deletebtn{
+    background-color: brown;
+    color: white;
+    font-style: italic;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family:  Arial, sans-serif;
+}
+
+.pagination{
+    margin-top: 10px;
+    text-align: center;
+}

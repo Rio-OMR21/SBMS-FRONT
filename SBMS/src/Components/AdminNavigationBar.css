@@ -1,0 +1,80 @@
+.admin-nav-container {
+    background-color: rgba(19, 15, 65, 0.97);
+    border-radius: 20px;
+    height: 60px;
+    width: 99%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+  }
+  
+  .admin-profile {
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    color: #333;
+    position: absolute;
+    top: 10px;
+    right: 15px;
+  }
+  
+  .menu-button {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    color: #fff;
+    padding: 0 20px;
+  }
+  
+  .menu-icon {
+    font-size: 24px;
+    margin-right: 5px;
+  }
+  
+  .menu-text {
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .menu {
+    width: auto;
+    height: 530px;
+    background-color: rgba(65, 67, 68, 0.97);
+    border-radius: 20px;
+    position: fixed;
+    top: 60px;
+    left: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0;
+  }
+  
+  .menu-item {
+    background-color: rgba(62, 104, 255, 1);
+    border-radius: 20px;
+    height: 60px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0 22px;
+    
+  }
+  
+  .menu-item:hover {
+    background-color: rgba(62, 104, 255, 0.8);
+  }
+  
